@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-30T10:25:15.234838900Z</date>
+  <millis>1661855115234</millis>
+  <nanos>838900</nanos>
+  <sequence>1</sequence>
+  <logger>application.MenuController</logger>
+  <level>SEVERE</level>
+  <class>application.MenuController</class>
+  <method>playButton</method>
+  <thread>18</thread>
+  <message>exception.GameSizeException: Please select game size and number of players!</message>
+</record>
+<record>
+  <date>2022-08-30T10:25:34.636501400Z</date>
+  <millis>1661855134636</millis>
+  <nanos>501400</nanos>
+  <sequence>3</sequence>
+  <logger>application.MenuController</logger>
+  <level>SEVERE</level>
+  <class>application.MenuController</class>
+  <method>playButton</method>
+  <thread>18</thread>
+  <message>exception.DuplicateException: Username already exists!</message>
+</record>
+<record>
+  <date>2022-08-30T10:25:34.636501400Z</date>
+  <millis>1661855134636</millis>
+  <nanos>501400</nanos>
+  <sequence>3</sequence>
+  <logger>application.MenuController</logger>
+  <level>SEVERE</level>
+  <class>application.MenuController</class>
+  <method>playButton</method>
+  <thread>18</thread>
+  <message>exception.DuplicateException: Username already exists!</message>
+</record>
+</log>

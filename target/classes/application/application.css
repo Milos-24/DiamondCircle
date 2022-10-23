@@ -1,0 +1,16 @@
+#AnchorPane {
+    -fx-background-image: url('Diamond.jpg');
+    -fx-background-size: cover;
+
+}
+
+#playButton{
+    -fx-background-color: #008CBA;
+    -fx-border: none;
+    -fx-color: white;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+}

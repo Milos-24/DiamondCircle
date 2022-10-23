@@ -1,0 +1,11 @@
+Igrac - milos
+	Figura 0 (RegularFigure, 0xff0000ff) - predjeni put () - stigla do cilja ne
+	Figura 1 (SuperFastFigure, 0xff0000ff) - predjeni put () - stigla do cilja ne
+	Figura 2 (FlyingFigure, 0xff0000ff) - predjeni put () - stigla do cilja da
+	Figura 3 (SuperFastFigure, 0xff0000ff) - predjeni put () - stigla do cilja ne
+Igrac - mko
+	Figura 0 (RegularFigure, 0xffff00ff) - predjeni put () - stigla do cilja ne
+	Figura 1 (SuperFastFigure, 0xffff00ff) - predjeni put () - stigla do cilja ne
+	Figura 2 (SuperFastFigure, 0xffff00ff) - predjeni put () - stigla do cilja ne
+	Figura 3 (RegularFigure, 0xffff00ff) - predjeni put () - stigla do cilja da
+Ukupno vrijeme trajanja igre: 

@@ -1,0 +1,11 @@
+Igrac - RADOVAN
+	Figura 0 (FlyingFigure, 0xff0000ff) - predjeni put () - stigla do cilja da
+	Figura 1 (SuperFastFigure, 0xff0000ff) - predjeni put () - stigla do cilja da
+	Figura 2 (SuperFastFigure, 0xff0000ff) - predjeni put () - stigla do cilja da
+	Figura 3 (FlyingFigure, 0xff0000ff) - predjeni put () - stigla do cilja da
+Igrac - KARADZIC
+	Figura 0 (SuperFastFigure, 0x0000ffff) - predjeni put () - stigla do cilja da
+	Figura 1 (FlyingFigure, 0x0000ffff) - predjeni put () - stigla do cilja da
+	Figura 2 (RegularFigure, 0x0000ffff) - predjeni put () - stigla do cilja ne
+	Figura 3 (SuperFastFigure, 0x0000ffff) - predjeni put () - stigla do cilja da
+Total Time: 00:00:24

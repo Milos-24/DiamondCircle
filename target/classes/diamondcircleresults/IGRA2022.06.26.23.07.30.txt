@@ -1,0 +1,21 @@
+Igrac - a
+	Figura 1 (FlyingFigure, 0xffff00ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 2 (RegularFigure, 0xffff00ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  - stigla do cilja ne
+	Figura 3 (SuperFastFigure, 0xffff00ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  - stigla do cilja ne
+	Figura 4 (FlyingFigure, 0xffff00ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+Igrac - b
+	Figura 1 (SuperFastFigure, 0x0000ffff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 2 (RegularFigure, 0x0000ffff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 3 (RegularFigure, 0x0000ffff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  - stigla do cilja ne
+	Figura 4 (FlyingFigure, 0x0000ffff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+Igrac - c
+	Figura 1 (SuperFastFigure, 0xff0000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 2 (RegularFigure, 0xff0000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  - stigla do cilja ne
+	Figura 3 (RegularFigure, 0xff0000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  - stigla do cilja ne
+	Figura 4 (FlyingFigure, 0xff0000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+Igrac - d
+	Figura 1 (SuperFastFigure, 0x008000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  - stigla do cilja ne
+	Figura 2 (FlyingFigure, 0x008000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 3 (FlyingFigure, 0x008000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  (4, 2)  (3, 1)  (2, 2)  (2, 3)  (3, 4)  (4, 3)  (3, 2)  (3, 3)  - stigla do cilja da
+	Figura 4 (RegularFigure, 0x008000ff) - predjeni put  (0, 3)  (1, 4)  (2, 5)  (3, 6)  (4, 5)  (5, 4)  (6, 3)  (5, 2)  (4, 1)  (3, 0)  (2, 1)  (1, 2)  (1, 3)  (2, 4)  (3, 5)  (4, 4)  (5, 3)  - stigla do cilja ne
+Total Time: 00:02:47

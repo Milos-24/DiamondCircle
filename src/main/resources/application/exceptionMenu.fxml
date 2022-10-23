@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="207.0" prefWidth="416.0" style="-fx-background-color: Black;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MenuExceptionController">
+   <children>
+      <Button layoutX="325.0" layoutY="150.0" mnemonicParsing="false" onAction="#continueButton" style="-fx-background-color: #008CBA;" text="Continue" textFill="WHITE" />
+      <Label fx:id="exceptionLabel" layoutX="37.0" layoutY="36.0" text="Exception" textFill="WHITE">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
